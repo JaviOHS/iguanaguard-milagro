@@ -1,22 +1,42 @@
 [
   {
-    "id": "1783281949405",
+    "id": "1783281949401",
     "nombres": "RANDY",
     "apellidos": "MEDINA",
     "cedula": "1729110401",
-    "direccion": "EL RECREO 5TA ETAPA MANZANA 573",
-    "imagenUrl": "/image/default_user.webp",
+    "direccion": "EL RECREO 5TA ETAPA",
+    "imagenUrl": "https://i.pinimg.com/1200x/eb/3f/a4/eb3fa4e801ea7f519c17235425024f15.jpg",
     "ipCreador": "::1",
-    "fechaRegistro": "2026-07-05T20:05:49.408Z"
+    "fechaRegistro": "2026-07-05T08:30:00.000Z"
   },
   {
-    "id": "1783282016722",
-    "nombres": "AARÓN",
-    "apellidos": "MEDINA",
-    "cedula": "0962577938",
-    "direccion": "EL RECREO 5TA ETAPA MANZANA 573",
-    "imagenUrl": "/image/default_user.webp",
+    "id": "1783281949402",
+    "nombres": "ENNER",
+    "apellidos": "VALENCIA LASTRA",
+    "cedula": "0923456789",
+    "direccion": "GUAYAKILL",
+    "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshlosiVHJrz3fQzCO8zaxVyl8snDBV1Tm8n5WB79sY4JGDwQTP8ZVriCM&s=10",
     "ipCreador": "::1",
-    "fechaRegistro": "2026-07-05T20:06:56.726Z"
+    "fechaRegistro": "2026-07-05T08:30:00.000Z"
+  },
+  {
+    "id": "1783281949406",
+    "nombres": "RAFAEL",
+    "apellidos": "CORREA",
+    "cedula": "0945678901",
+    "direccion": "BÉLGICA",
+    "imagenUrl": "https://imagenes.elpais.com/resizer/v2/ZZU6EDCCVNCMPMZJG43DGRMRJU.jpg?auth=ab056070cac28b7497c734983bfc07a71d635a32f07145b81bf40efbc0df5e42&width=1200",
+    "ipCreador": "::1",
+    "fechaRegistro": "2026-07-04T08:30:00.000Z"
+  },
+  {
+    "id": "1783281949403",
+    "nombres": "KEVIN",
+    "apellidos": "HART",
+    "cedula": "0934567890",
+    "direccion": "GUAYAKILL",
+    "imagenUrl": "https://i.pinimg.com/1200x/6e/08/6c/6e086cdd77bc2a2ed6dd6c33a2400661.jpg",
+    "ipCreador": "::1",
+    "fechaRegistro": "2026-07-06T08:30:00.000Z"
   }
 ]
